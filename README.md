@@ -6,7 +6,7 @@ This repository contains a simple web application that lets users play various d
 
 1. Clone the repository to your local machine:
    
-       `git clone https://github.com/AavashGyawali/DrumKit`
+    `git clone https://github.com/AavashGyawali/DrumKit`
 
 2. Open the `index.html` file in a web browser.
 
