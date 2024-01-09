@@ -1,8 +1,8 @@
 # Drum Kit Website
 
-This repository contains a simple web application that lets users play various drum sounds by either clicking on the drum parts displayed on the webpage or by using specific keyboard keys. The project is built using HTML, CSS, and JavaScript.You can go to [Drum Kit](https://aavashgyawali-drumkit.netlify.app/) to use online version or clone it and use it locally as instructed below.
+This repository contains a simple web application that lets users play various drum sounds by either clicking on the drum parts displayed on the webpage or by using specific keyboard keys. The project is built using HTML, CSS, and JavaScript.You can go to [Drum Kit](https://aavashgyawali-drumkit.netlify.app/){:target="_blank"} to use online version or clone it and use it locally as instructed below.
 
-## Steps
+## 
 
 1. Clone the repository to your local machine: `git clone https://github.com/AavashGyawali/DrumKit`
 
